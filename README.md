@@ -29,7 +29,14 @@ The objective of this project is to construct a Recurrent Neural Network (RNN) m
 
 ## Implementation
 The project will utilize Python and popular deep learning frameworks such as TensorFlow or PyTorch to build and train the RNN model. The dataset will be preprocessed to prepare it for training, and appropriate data normalization techniques will be applied. The RNN model architecture will be designed to capture temporal dependencies and patterns in the stock market data. The model will be trained using a suitable loss function and optimized using an appropriate optimization algorithm.
+
+<br>
+<br>
+
 ![PyTorch Logo](https://github.com/pytorch/pytorch/blob/main/docs/source/_static/img/pytorch-logo-dark.png)
+
+<br>
+<br>
 
 ## Getting Started
 To get started with this project, follow these steps:
