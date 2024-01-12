@@ -1,3 +1,6 @@
+
+
+
 # RNN-StockMarket
 This project focuses on constructing a Recurrent Neural Network (RNN) model for analyzing monthly stock market datasets. The dataset contains information such as the stock symbol, date, closing price, high price, low price, opening price, trading volume, adjusted closing price, adjusted high price, adjusted low price, adjusted opening price, adjusted trading volume, dividend cash, and split factor.
 
@@ -26,6 +29,7 @@ The objective of this project is to construct a Recurrent Neural Network (RNN) m
 
 ## Implementation
 The project will utilize Python and popular deep learning frameworks such as TensorFlow or PyTorch to build and train the RNN model. The dataset will be preprocessed to prepare it for training, and appropriate data normalization techniques will be applied. The RNN model architecture will be designed to capture temporal dependencies and patterns in the stock market data. The model will be trained using a suitable loss function and optimized using an appropriate optimization algorithm.
+![PyTorch Logo](https://github.com/pytorch/pytorch/blob/main/docs/source/_static/img/pytorch-logo-dark.png)
 
 ## Getting Started
 To get started with this project, follow these steps:
